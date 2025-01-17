@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 ## Contents
 - Machine Learning
-    - [Predicting Boston Housing Prices](https://github.com/TerekliTahaBerk/data-science-portfolio/blob/main/Predicting%20Boston%20Housing%20Prices/Predicting_Boston_Housing_Prices.ipynb): This project is an analytical study that utilizes data science and machine learning methods to predict housing prices in Boston. Factors influencing housing prices were examined, followed by data cleaning, exploratory data analysis, and the application of predictive models to derive results. This study aims to enhance the understanding of both data science techniques and the dynamics of the real estate market. (⏳)
+    - [Predicting Boston Housing Prices](https://github.com/TerekliTahaBerk/data-science-portfolio/blob/main/Predicting%20Boston%20Housing%20Prices/Predicting_Boston_Housing_Prices.ipynb): This project is an analytical study that utilizes data science and machine learning methods to predict housing prices in Boston. Factors influencing housing prices were examined, followed by data cleaning, exploratory data analysis, and the application of predictive models to derive results. This study aims to enhance the understanding of both data science techniques and the dynamics of the real estate market.
 
 _Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_
 
