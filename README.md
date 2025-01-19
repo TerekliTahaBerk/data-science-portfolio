@@ -18,7 +18,7 @@ pip install -r requirements.txt
     _Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_
 
 - ### Data Analysis and Visualisation
-    - [Titanic Dataset Exploratory Data Analysis](https://github.com/TerekliTahaBerk/data-science-portfolio/blob/main/Titanic%20Dataset%20Exploratory%20Data%20Analysis/Titanic_Dataset_Exploratory_Data_Analysis.ipynb): An in-depth exploratory analysis of the demographic and survival characteristics of the passengers onboard the RMS Titanic, leveraging Pandas for data manipulation and Seaborn for creating visually insightful visualizations. (⏳)
+    - [Titanic Dataset Exploratory Data Analysis](https://github.com/TerekliTahaBerk/data-science-portfolio/blob/main/Titanic%20Dataset%20Exploratory%20Data%20Analysis/Titanic_Dataset_Exploratory_Data_Analysis.ipynb): This project involves a comprehensive exploratory analysis of the passengers onboard the RMS Titanic, focusing on their demographic, socioeconomic, and survival characteristics. Using Pandas for efficient data manipulation and analysis, combined with the powerful visualization capabilities of Seaborn, the study aims to uncover patterns, trends, and key insights about the passengers and factors influencing survival during the tragic maritime disaster. (⏳)
  
     _Tools: Pandas, Folium, Seaborn and Matplotlib_     
 
