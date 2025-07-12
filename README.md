@@ -12,18 +12,23 @@ pip install -r requirements.txt
 3.	Run the cells as needed to execute the code.
 
 ## Contents
-- ### Machine Learning
-    - [Predicting Boston Housing Prices](https://github.com/TerekliTahaBerk/data-science-portfolio/blob/main/Predicting%20Boston%20Housing%20Prices/Predicting_Boston_Housing_Prices.ipynb): This project is an analytical study that utilizes data science and machine learning methods to predict housing prices in Boston. Factors influencing housing prices were examined, followed by data cleaning, exploratory data analysis, and the application of predictive models to derive results. This study aims to enhance the understanding of both data science techniques and the dynamics of the real estate market.
-    - [Diet, Exercise, and PCOS Insights Prediction](https://github.com/TerekliTahaBerk/data-science-portfolio/blob/main/Diet%2C%20Exercise%2C%20and%20PCOS%20Insights%20Prediction/Diet%2C_Exercise%2C_and_PCOS_Insights_Prediction.ipynb): This project is an analytical study that leverages data science and machine learning methods to predict and analyze the relationship between diet, exercise, and the symptoms of Polycystic Ovary Syndrome (PCOS). Key factors influencing PCOS symptoms were examined, followed by data preprocessing, exploratory data analysis, and the development of predictive models to uncover insights. The aim of this study is to deepen the understanding of PCOS management through lifestyle factors while demonstrating the application of data science techniques in healthcare research.
+- ### Data Cleaning and Preprocessing Projects
+This section features projects focused on transforming raw data into a clean, usable format suitable for analysis and modeling. It includes processes like handling missing values, identifying and treating outliers, standardizing data types, and structuring data for optimal performance. These projects highlight the critical importance of ensuring data reliability and quality.
 
-    _Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_
+- ### Exploratory Data Analysis (EDA) Projects
+Projects in this section involve summarizing the main characteristics of datasets and using visualizations to discover patterns, trends, and anomalies. EDA is crucial for gaining deep insights into data before modeling and helps in formulating hypotheses.
 
-- ### Data Analysis and Visualisation
-    - #### Python 
-        - [Titanic Dataset Exploratory Data Analysis](https://github.com/TerekliTahaBerk/data-science-portfolio/blob/main/Titanic%20Dataset%20Exploratory%20Data%20Analysis/Titanic_Dataset_Exploratory_Data_Analysis.ipynb): This project involves a comprehensive exploratory analysis of the passengers onboard the RMS Titanic, focusing on their demographic, socioeconomic, and survival characteristics. Using Pandas for efficient data manipulation and analysis, combined with the powerful visualization capabilities of Seaborn, the study aims to uncover patterns, trends, and key insights about the passengers and factors influencing survival during the tragic maritime disaster.
-        - [Diet, Exercise, and PCOS Insights Data Analysis](https://github.com/TerekliTahaBerk/data-science-portfolio/blob/main/Diet%2C%20Exercise%2C%20and%20PCOS%20Insights%20Data%20Analysis/Diet%2C_Exercise%2C_and_PCOS_Insights_Data_Analysis.ipynb): This project explores a comprehensive analysis of data related to diet, exercise, and Polycystic Ovary Syndrome (PCOS), focusing on how these factors interact and impact the health and well-being of individuals with PCOS. Using Pandas for efficient data manipulation and analysis, along with Seaborn’s powerful visualization tools, the study aims to identify patterns, trends, and key insights on the relationship between lifestyle choices and PCOS management. The goal is to uncover actionable findings that can guide better understanding and potential interventions for those affected by PCOS.
- 
-        _Tools: Pandas, Folium, Seaborn and Matplotlib_     
+- ### Machine Learning Models Projects
+This category includes projects dedicated to developing and implementing algorithms that learn from past data to predict future outcomes or make decisions. It covers building and evaluating models using techniques such as regression, classification, and clustering to solve real-world problems.
+
+- ### Deep Learning Projects
+This section focuses on projects that utilize artificial neural networks to learn complex patterns and hierarchical feature representations. It includes work involving advanced neural network architectures (e.g., CNNs, RNNs) applied to areas like image recognition, natural language processing, and time series forecasting.
+
+- ### A/B Testing or Statistical Analysis Projects
+Projects in this section involve designing experiments, conducting hypothesis testing, and applying statistical inference methods to evaluate specific assumptions or the impact of product features. A/B testing projects demonstrate an understanding of statistical significance and confidence intervals to draw meaningful conclusions and guide business decisions.
+
+- ### Deployment/Application Projects
+This category highlights projects where developed models or analyses are integrated into real-world applications. This could involve deploying a machine learning model as a web application, making it accessible via an API, or building interactive dashboards. These projects showcase the ability to bring a data science product from development to production.
 
 ## ☕️ Support My Work
 If this project inspired you, provided ideas for your own portfolio or helped in any way, please consider [buying me a coffee](https://www.buymeacoffee.com/tahaberkterekli) ❤️. Your support motivates me to keep creating and sharing valuable content! 
